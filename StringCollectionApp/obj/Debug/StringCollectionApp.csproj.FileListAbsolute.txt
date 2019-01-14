@@ -1,0 +1,6 @@
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\bin\Debug\StringCollectionApp.exe.config
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\bin\Debug\StringCollectionApp.exe
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\bin\Debug\StringCollectionApp.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\obj\Debug\StringCollectionApp.csprojResolveAssemblyReference.cache
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\obj\Debug\StringCollectionApp.exe
+c:\users\siyabonga\documents\visual studio 2015\Projects\StringCollectionApp\StringCollectionApp\obj\Debug\StringCollectionApp.pdb
